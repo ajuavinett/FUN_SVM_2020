@@ -1,2 +1,6 @@
-# FUN_SVM_2020
+# Faculty for Undergraduate Neuroscience, Summer Virtual Meeting 2020
+
 Tutorial notebook and slides for the workshop "Jupyter Notebooks as a Teaching Tool in Neuroscience Courses"
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/FUN_SVM_2020.git/master?filepath=Tutorial.ipynb)
+
