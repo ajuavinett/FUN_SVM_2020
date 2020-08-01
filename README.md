@@ -11,5 +11,12 @@ Tutorial notebook and slides for the workshop "Jupyter Notebooks as a Teaching T
 
 ### There are several ways to implement these notebooks in your class:
 - Run notebooks via Binder or Colab, as demonstrated above
-- Set up a JupyterHub for your course or university (e.g., the [UCSD DataHub](http://datahub.ucsd.edu))
+- Set up a [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/installation-guide-hard.html) for your course or university (e.g., the [UCSD DataHub](http://datahub.ucsd.edu))
 - Ask students to download the [Anaconda Distribution](https://www.anaconda.com/products/individual) of Python, which includes Jupyter Notebook, many useful packages and more, to run these notebooks locally
+
+### Teaching Resources Related to this Tutorial:
+- [Teaching with the Allen Institute for Brain Science resources](https://sites.google.com/ucsd.edu/neuroedu)
+- [Neural Data Science Course Materials](https://github.com/BIPN162/Materials)
+
+### Questions? Get in touch.
+Email ajuavine[at]ucsd.edu
